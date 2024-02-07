@@ -119,9 +119,10 @@ h1 {
   }
 
   .card {
-    flex: 0 0 calc(50% 20px);
-    max-width: calc(50% 20px);
+    flex: 0 0 calc(50% - 20px); 
+    max-width: calc(50% - 20px); 
   }
+  
 
 }
 
